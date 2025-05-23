@@ -1,6 +1,6 @@
 - 👋 Hi, I’m TaeKyung
 - 👀 I’m interested in cat, emotion.
-- 🌱 I’m currently learning python,sql,data...
+- 🌱 I’m currently learning python,sql,data,flutter...
 - 💞️ I’m looking to collaborate on everyone.
 - 📫 How to reach me : come on seoul
 - 😄 Pronouns: Happy man
