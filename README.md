@@ -5,7 +5,7 @@
 - 📫 How to reach me : come on seoul
 - 😄 Pronouns: Happy man
 - ⚡ Fun fact: ....all my life
-- 🌹 Flowers in My profile photo is From the left, Bidens, Astor, Marguerite, Carnation.
+- 🌹 Flowers in My profile photo is From the left, Bidens, Marguerite, Astor, Carnation.
   They are growing in our house.
 <!---
 TaeKyungg2/TaeKyungg2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
