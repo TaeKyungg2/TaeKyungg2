@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python,sql,data,flutter...
 - 💞️ I’m looking to collaborate on everyone.
 - 📫 How to reach me : come on seoul
-- 😄 Pronouns: Happy man
+- 😄 Pronouns: man
 - ⚡ Fun fact: ....all my life
 - 🌹 Flowers in My profile photo is from the left, Bidens, Marguerite, Astor, Carnation.
   They are growing in our house.
