@@ -2,7 +2,7 @@
 - 👀 I’m interested in cat, emotion.
 - 🌱 I’m currently learning python,data,flutter...
 - 💞️ I’m looking to collaborate on everyone.
-- 📫 How to reach me : come on seoul
+- 📫 How to reach me : come on seoul or mail : tae5431@gmail.com
 - 😄 Pronouns: man
 - ⚡ Fun fact: ....all my life
 - 🌹 Flowers in My profile photo is from the left, Bidens, Marguerite, Astor, Carnation.
