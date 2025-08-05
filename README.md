@@ -1,4 +1,4 @@
-- 👋 Hi, I’m TaeKyung
+- 👋 Hi, I’m TaeKyung Kwak.
 - 👀 I’m interested in cat, emotion.
 - 🌱 I’m currently learning python,data,flutter...
 - 💞️ I’m looking to collaborate on everyone.
