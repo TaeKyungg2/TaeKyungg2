@@ -11,6 +11,9 @@
 > The most effective way to learn is to choose a problem (not a tool) that interests you. -📖Essential Math for Data Science
 
 > The more difficult the road, the more my heart races. -Friedrich Nietzsche
+
+> 10. 자연을 능가하는 기술은 없다. 사실 모든 기술은 자연의 이런저런 모습을 모방한 것이기 때문이다.
+<명상록>, 마르쿠스 아우렐리우스 지음
 <!---
 TaeKyungg2/TaeKyungg2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
