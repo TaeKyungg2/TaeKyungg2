@@ -8,11 +8,9 @@
 📊 **data/AI** is currently the most important technology and can do many things.<br>
 🚀 **flutter** can create front-ends for multiple OSes with a single codebase.
 
-✋ I also can c/c++, C#, Unity, Python, SQL, FastAPI (some HTML, CSS, JS)<br>
-⛳︎I'm trying to understand the principles beyond just using libraries.
+✋ I also can c/c++, C#, Unity, Python, SQL, FastAPI (some HTML, CSS, JS)
 
-
-
+⛳︎I'm trying to understand the principles beyond just using libraries.<br>
 👾 I truly enjoy developing and want to learn and build many things.
 
 > There is no technology that surpasses nature. In fact, all technology imitates various aspects of nature. _—Meditations, Marcus Aurelius<br>_
