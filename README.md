@@ -14,7 +14,7 @@
 
 👾 I truly enjoy developing and want to learn and build many things.
 
-> There is no technology that surpasses nature. In fact, all technology imitates various aspects of nature. —Meditations, Marcus Aurelius<br>
+> There is no technology that surpasses nature. In fact, all technology imitates various aspects of nature. _—Meditations, Marcus Aurelius<br>_
 
 Even if I like computers and have technical skills, in the end I can't follow nature. I want to be someone who does not become conceited.
 
