@@ -4,9 +4,9 @@
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-kwaktaekyung-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kwaktaekyung/)
 
 ### ⭐️ I am currently interested in data science (Python), AI, Rust, and Flutter.<br>
-🦀 I think rust is a modern and excellent language. It combines memory management and performance.<br>
-📊 data/AI is currently the most important technology and can do many things.<br>
-🚀 flutter can create front-ends for multiple OSes with a single codebase.
+🦀 I think **rust** is a modern and excellent language. It combines memory management and performance.<br>
+📊 **data/AI** is currently the most important technology and can do many things.<br>
+🚀 **flutter** can create front-ends for multiple OSes with a single codebase.
 
 ✋ I also can c/c++, C#, Unity, Python, SQL, FastAPI (some HTML, CSS, JS)
 
