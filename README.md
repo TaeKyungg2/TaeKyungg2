@@ -1,20 +1,23 @@
-- 👋 Hi, I’m TaeKyung Kwak.
-- 👀 I’m interested in cat, penguin.
-- 🌱 I’m currently learning rust,flutter, data science...
-- 💞️ I’m looking to collaborate on everyone.
-- 📫 How to reach me : come on seoul or mail : tae5431@gmail.com
-- 😄 Pronouns: man
-- ⚡ Fun fact: ....all my life.
-- 🐧 My place www.taery.blog
-> The most incomprehensible thing in this world is that the whole world can be understood. -Albert Einstein
+### 👋Hello, my name is TaeKyung Kwak. <br>
+🐧 Things I like are cats, penguins, and other animals.<br>
+🖇️ [![Blog](https://img.shields.io/badge/Blog-www.taery.blog-blue?style=flat-square)](https://www.taery.blog)
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-kwaktaekyung-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kwaktaekyung/)
 
-> The most effective way to learn is to choose a problem (not a tool) that interests you. -📖Essential Math for Data Science
+### ⭐️ I am currently interested in data science (Python), AI, Rust, and Flutter.<br>
+🦀 I think rust is a modern and excellent language. It combines memory management and performance.<br>
+📊 data/AI is currently the most important technology and can do many things.<br>
+🚀 flutter can create front-ends for multiple OSes with a single codebase.
 
-> The more difficult the road, the more my heart races. -Friedrich Nietzsche
+✋ I also can c/c++, C#, Unity, Python, SQL, FastAPI (some HTML, CSS, JS)
 
->자연을 능가하는 기술은 없다. 사실 모든 기술은 자연의 이런저런 모습을 모방한 것이기 때문이다.
-<명상록>, 마르쿠스 아우렐리우스 지음
-<!---
-TaeKyungg2/TaeKyungg2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+👾 I truly enjoy developing and want to learn and build many things.
+
+> There is no technology that surpasses nature. In fact, all technology imitates various aspects of nature. —Meditations, Marcus Aurelius<br>
+
+Even if I like computers and have technical skills, in the end I can't follow nature. I want to be someone who does not become conceited.
+
+
+
+
