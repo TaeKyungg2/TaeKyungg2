@@ -18,7 +18,7 @@
 
 Even if I like computers and have technical skills, in the end I can't follow nature. I want to be someone who does not become conceited.
 
-<img src="assets/고양이.jpg" alt="고양이" width="300"/><img src="assets/펭귄.jpg" alt="펭귄" width="300"/><img src="assets/수달.jpg" alt="수달" width="300"/>
+<img src="assets/고양이.jpg" alt="고양이" width="200"/><img src="assets/펭귄.jpg" alt="펭귄" width="200"/><img src="assets/수달.jpg" alt="수달" width="200"/>
 
 
 
