@@ -1,5 +1,5 @@
 ### 👋Hello, my name is TaeKyung Kwak. 🇰🇷seoul, korea. <br>
-🐧🐈 Things I like are cats, penguins, and other animals.<br>
+🐧🐈 Things I like are cats, linux, and other animals.<br>
 🟨 I use a MacBook, and its name is yellowmac.<br>
 🖇️ [![Blog](https://img.shields.io/badge/Blog-www.taery.blog-blue?style=flat-square)](https://www.taery.blog)
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-kwaktaekyung-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kwaktaekyung/)
