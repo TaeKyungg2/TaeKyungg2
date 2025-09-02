@@ -31,7 +31,7 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taekyungg2)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ⛳︎I'm trying to understand the principles beyond just using libraries.<br>
