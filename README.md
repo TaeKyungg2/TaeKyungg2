@@ -1,4 +1,4 @@
-### 👋Hello, my name is TaeKyung Kwak. 🇰🇷seoul, korea. <br>
+### 👋Hello, my name is TaeKyung Kwak. 🇰🇷seoul, korea. 안녕하세요☺️ <br>
 🐧🐈 Things I like are cats, linux, and other animals.<br>
 🟨 I use a MacBook, and its name is yellowmac.<br>
 🖇️ [![Blog](https://img.shields.io/badge/Blog-www.taery.blog-blue?style=flat-square)](https://www.taery.blog)
