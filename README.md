@@ -2,7 +2,7 @@
 🐧🐈 Things I like are cats, linux, and other animals.<br>
 🟨 I use a MacBook, and its name is yellowmac.<br>
 🖇️ [![Blog](https://img.shields.io/badge/Blog-www.taery.blog-blue?style=flat-square)](https://www.taery.blog)
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-kwaktaekyung-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kwaktaekyung/)[![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-Model-yellow)](https://huggingface.co/Taery)
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-kwaktaekyung-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kwaktaekyung/)&nbsp;[![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-Model-yellow)](https://huggingface.co/Taery)
 
  
 
