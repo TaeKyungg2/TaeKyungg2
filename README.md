@@ -11,8 +11,6 @@
 📊 **data/AI** is currently the most important technology and can do many things.<br>
 🚀 **flutter** can create front-ends for multiple OSes with a single codebase.
 
-✋ I also can c/c++, C#, Unity, Python, SQL, FastAPI (some HTML, CSS, JS)
-
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
