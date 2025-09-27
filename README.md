@@ -32,8 +32,8 @@
 
 
 
-⛳︎ I'm trying to understand the principles beyond just using libraries.<br>
-👾 I truly enjoy developing and want to learn and build many things.
+⛳︎  I'm trying to understand the principles beyond just using libraries.<br>
+👾  I truly enjoy developing and want to learn and build many things.
 
 > There is no technology that surpasses nature. In fact, all technology imitates various aspects of nature. _—Meditations, Marcus Aurelius<br>_
 
