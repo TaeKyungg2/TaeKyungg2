@@ -37,6 +37,6 @@
 
 > There is no technology that surpasses nature. In fact, all technology imitates various aspects of nature. _—Meditations, Marcus Aurelius<br>_
 
-<img src="assets/cat.png" alt="고양이" width="200"/>&nbsp;&nbsp;<img src="assets/penguin.png" alt="펭귄" width="200"/>&nbsp;&nbsp;<img src="assets/1k_tri.svg" alt="alpaca" width="300"/>&nbsp;&nbsp;<img src="assets/icon_white.png" alt="icon" width="200"/>&nbsp;&nbsp;<img src="assets/image1.png" alt="icon" width="300"/>&nbsp;&nbsp;<img src="assets/image2.png" alt="icon" width="300">
+<img src="assets/cat.png" alt="고양이" width="200"/>&nbsp;&nbsp;<img src="assets/penguin.png" alt="펭귄" width="150"/>&nbsp;&nbsp;<img src="assets/1k_tri.svg" alt="alpaca" width="300"/>&nbsp;&nbsp;<img src="assets/icon_white.png" alt="icon" width="200"/>&nbsp;&nbsp;<img src="assets/image1.png" alt="icon" width="300"/>&nbsp;&nbsp;<img src="assets/image2.png" alt="icon" width="300">
 
 
