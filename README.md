@@ -36,7 +36,7 @@
 ⛳︎  trying to understand the principles beyond just using libraries.<br>
 📖  enjoy developing and want to learn and build many things.
 
-<img src="assets/cat.png" alt="고양이" width="200"/>&nbsp;&nbsp;<img src="assets/sheep.jpg" alt="펭귄" width="200"/>&nbsp;&nbsp;<img src="assets/1k_tri.svg" alt="tri" width="200"/>&nbsp;&nbsp;<img src="assets/icon_white.png" alt="icon" width="200"/>&nbsp;&nbsp;<img src="assets/notebook.JPG" alt="icon" width="200"/>&nbsp;&nbsp;
+<img src="assets/cat.png" width="200"/>&nbsp;&nbsp;<img src="assets/sheep.jpg" width="200"/>&nbsp;&nbsp;<img src="assets/1k_tri.svg" width="200"/>&nbsp;&nbsp;<img src="assets/icon_white.png" width="200"/>&nbsp;&nbsp;<img src="assets/notebook.JPG" width="200"/>&nbsp;&nbsp;
 
 
 
