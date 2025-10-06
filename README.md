@@ -1,4 +1,4 @@
-### 👋 Hi, I'm TaeKyung Kwak  
+### 👋 Hi, 안녕하세요, I'm TaeKyung Kwak  
 🇰🇷 Seoul, Korea | 🐧🐈 Cats, Linux, and other animals  
 
 [![Blog](https://img.shields.io/badge/Blog-www.taery.blog-blue?style=flat-square)](https://www.taery.blog)
