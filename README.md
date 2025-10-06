@@ -1,16 +1,16 @@
-### 👋Hello, my name is TaeKyung Kwak. 🇰🇷seoul, korea. 안녕하세요 <br>
-🐧🐈 Things I like are cats, linux, and other animals.<br>
-🟨 I use a MacBook, and its name is yellowmac.<br>
-🖇️ [![Blog](https://img.shields.io/badge/Blog-www.taery.blog-blue?style=flat-square)](https://www.taery.blog)
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-kwaktaekyung-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kwaktaekyung/)&nbsp;[![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-Model-yellow)](https://huggingface.co/Taery)
+### 👋Hello, my name is TaeKyung Kwak. 🇰🇷seoul, korea. 안녕하세요 <br>### 👋 Hi, I'm TaeKyung Kwak  
+🇰🇷 Seoul, Korea | 🐧🐈 Cats, Linux, and other animals  
+
+[![Blog](https://img.shields.io/badge/Blog-www.taery.blog-blue?style=flat-square)](https://www.taery.blog)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-kwaktaekyung-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kwaktaekyung/)
+[![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-Model-yellow)](https://huggingface.co/Taery)
 
  
 
-### ⭐️ I am currently interested in data science (Python), AI, Rust, and Flutter.<br>
-🦀 I think **rust** is a modern and excellent language. It combines memory management and performance.<br>
-📊 **data/AI** is currently the most important technology and can do many things.<br>
-🚀 **flutter** can create front-ends for multiple OSes with a single codebase.
-
+### ⭐️ Interests<br>
+🦀 Rust — modern memory & performance  
+📊 Data & AI — machine learning, statistics  
+🚀 Flutter — cross-platform UI/UX  
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
@@ -35,9 +35,10 @@
 ⛳︎  I'm trying to understand the principles beyond just using libraries.<br>
 👾  I truly enjoy developing and want to learn and build many things.
 
-> There is no technology that surpasses nature. In fact, all technology imitates various aspects of nature. _—Meditations, Marcus Aurelius<br>_
+> 📝 *"There is no technology that surpasses nature. In fact, all technology imitates various aspects of nature."*  
+> — *Meditations, Marcus Aurelius*
 
-<img src="assets/cat.png" alt="고양이" width="200"/>&nbsp;&nbsp;<img src="assets/penguin.png" alt="펭귄" width="150"/>&nbsp;&nbsp;<img src="assets/1k_tri.svg" alt="alpaca" width="300"/>&nbsp;&nbsp;<img src="assets/icon_white.png" alt="icon" width="200"/>&nbsp;&nbsp;<img src="assets/notebook.JPG" alt="icon" width="300"/>&nbsp;&nbsp;
+<img src="assets/cat.png" alt="고양이" width="300"/>&nbsp;&nbsp;<img src="assets/penguin.png" alt="펭귄" width="200"/>&nbsp;&nbsp;<img src="assets/1k_tri.svg" alt="alpaca" width="300"/>&nbsp;&nbsp;<img src="assets/icon_white.png" alt="icon" width="220"/>&nbsp;&nbsp;<img src="assets/notebook.JPG" alt="icon" width="300"/>&nbsp;&nbsp;
 
 
 
