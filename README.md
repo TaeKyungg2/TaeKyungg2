@@ -36,7 +36,7 @@
 ⛳︎  trying to understand the principles beyond just using libraries.<br>
 📖  enjoy developing and want to learn and build many things.
 <div style="display:flex; flex-wrap:wrap; gap:10px;">
-<img src="assets/cat.jpg" width="200" gap:50px /><img src="assets/sheep.jpg" width="200" gap:50px/><img src="assets/1k_tri.svg" width="200" gap:50px/><img src="assets/icon_white.png" width="200" gap:50px/><img src="assets/notebook.JPG" width="200" gap:50px/>
+    <img src="assets/cat.jpg" width="200" gap:50px /><img src="assets/sheep.jpg" width="200" gap:50px/><img src="assets/1k_tri.svg" width="200" gap:50px/><img src="assets/icon_white.png" width="200" gap:50px/><img src="assets/notebook.JPG" width="200" gap:50px/>
 </div>
 
 
