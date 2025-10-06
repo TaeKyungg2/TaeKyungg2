@@ -31,10 +31,8 @@
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white&style=for-the-badge)
 
 
-
-
-⛳︎  I'm trying to understand the principles beyond just using libraries.<br>
-👾  I truly enjoy developing and want to learn and build many things.
+⛳︎  trying to understand the principles beyond just using libraries.<br>
+📖  enjoy developing and want to learn and build many things.
 
 > 📝 *"There is no technology that surpasses nature. In fact, all technology imitates various aspects of nature."*  
 > — *Meditations, Marcus Aurelius*
