@@ -9,8 +9,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-kwaktaekyung-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kwaktaekyung/)
 [![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-Model-yellow)](https://huggingface.co/Taery)
 [![POE](https://img.shields.io/badge/POE-visit-blue?style=flat&logo=poe&logoColor=white)](https://poe.com/taery)
-[![collatz](https://img.shields.io/badge/콜라츠%20추측-Live%20Site-0078D4?logo=azure-static-web-apps&logoColor=white&style=for-the-badge)](https://polite-bush-02da9d200.1.azurestaticapps.net/)
- 
+[![collatz](https://img.shields.io/badge/collatz-Live%20Site-0078D4?logo=azure-static-web-apps&logoColor=white)](https://polite-bush-02da9d200.1.azurestaticapps.net/)
+
 <div align="center">
  <h3>🃏 Interests</h3>
   📊 Data & AI — machine/deep learning, LLM<br>
