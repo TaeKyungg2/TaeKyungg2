@@ -1,5 +1,8 @@
-### 👋 Hi, 안녕하세요, I'm TaeKyung Kwak  
+<p align="center">
+<h3>👋 Hi, 안녕하세요, I'm TaeKyung Kwak  
 🇰🇷 Seoul, Korea | 🐧🐈 Cats, Linux, and other animals  
+ </h3>
+</p>
 
 [![Blog](https://img.shields.io/badge/Blog-www.taery.blog-blue?style=flat-square)](https://www.taery.blog)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-kwaktaekyung-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kwaktaekyung/)
@@ -8,11 +11,13 @@
 
 
  
-
-### ⭐️ Interests<br>
-🦀 Rust — modern memory & performance  
-📊 Data & AI — machine learning, statistics  
-🚀 Flutter — cross-platform UI/UX  
+<div align="center">
+<h3>⭐️ Interests</h3>
+🦀 Rust — modern memory & performance<br>
+📊 Data & AI — machine learning, statistics<br>
+🚀 Flutter — cross-platform UI/UX
+</div>
+<br>
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
