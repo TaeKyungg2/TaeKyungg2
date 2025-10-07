@@ -9,6 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-kwaktaekyung-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kwaktaekyung/)
 [![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-Model-yellow)](https://huggingface.co/Taery)
 [![POE](https://img.shields.io/badge/POE-visit-blue?style=flat&logo=poe&logoColor=white)](https://poe.com/taery)
+[![Website](https://img.shields.io/badge/website-up-blue.svg)](https://polite-bush-02da9d200.1.azurestaticapps.net/)
  
 <div align="center">
  <h3>🃏 Interests</h3>
