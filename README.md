@@ -1,10 +1,9 @@
 <div align="center">
 <h3>👋 Hi, 안녕하세요, I am TaeKyung Kwak  
-<i>🇰🇷 Seoul, Korea</i> 
- </h3>
+<i>🇰🇷 Seoul, Korea</i> </h3>
  🐧🐈 Cats, Linux, and other animals 
 </div>
-
+<br>
 [![Blog](https://img.shields.io/badge/Blog-www.taery.blog-blue?style=flat-square)](https://www.taery.blog)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-kwaktaekyung-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kwaktaekyung/)
 [![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-Model-yellow)](https://huggingface.co/Taery)
