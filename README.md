@@ -14,8 +14,8 @@
 <div align="center">
 <h3>⭐️ Interests</h3>
  📊 Data & AI — machine learning, statistics<br>
- 🚀 Flutter — cross-platform UI/UX
-🦀 Rust — modern memory & performance<br>
+ 🚀 Flutter — cross-platform UI/UX<br>
+🦀 Rust — modern memory & performance
 </div>
 <br>
 
