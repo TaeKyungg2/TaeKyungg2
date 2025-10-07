@@ -39,8 +39,8 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white&style=for-the-badge)
 
-> 📖*"There is no technology that surpasses nature. In fact, all technology imitates various aspects of nature."*  
-> — *Meditations, Marcus Aurelius*
+> 📖 "There is no technology that surpasses nature. In fact, all technology imitates various aspects of nature."* 
+> — Meditations, Marcus Aurelius
 
 ⛳︎  trying to understand the principles beyond just using libraries.<br>
 🎼  enjoy developing and want to learn and build many things.
