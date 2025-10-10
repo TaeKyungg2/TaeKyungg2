@@ -5,8 +5,8 @@
 </div>
 <br>
 
-[![Blog](https://img.shields.io/badge/🖼️Blog-www.taery.blog-skyblue?style=flat-square)](https://www.taery.blog)
-[![LinkedIn](https://img.shields.io/badge/📫LinkedIn-kwaktaekyung-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kwaktaekyung/)
+[![Blog](https://img.shields.io/badge/🖼️Blog-www.taery.blog-FFB6C1?style=flat-square)](https://www.taery.blog)
+[![LinkedIn](https://img.shields.io/badge/📫LinkedIn-kwaktaekyung-87CEFA?style=flat-square)](https://www.linkedin.com/in/kwaktaekyung/)
 [![Hugging Face](https://img.shields.io/badge/Hugging_Face-🌈-yellow?style=flat-square&logo=huggingface)](https://huggingface.co/Taery)
 [![POE](https://img.shields.io/badge/POE-🎨-FFA07A?style=flat-square&logo=poe&logoColor=pink)](https://poe.com/taery)
 [![collatz](https://img.shields.io/badge/collatz-🎀-191970?style=flat-square&logo=nvidia&logoColor=32CD32)](https://polite-bush-02da9d200.1.azurestaticapps.net/)
