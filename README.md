@@ -16,8 +16,8 @@
 <div align="center">
  <h3>🃏 Interests</h3>
   📊 Data & AI — machine/deep learning, LLM<br>
-  🚀 Flutter — all platform UI/UX<br>
-  🦀 Rust — modern memory & performance
+  <img src="https://cdn.simpleicons.org/flutter/02569B" width="15" height="15" alt="Flutter"/> Flutter — all platform UI/UX<br>
+  <img src="https://cdn.simpleicons.org/rust/000000" width="15" height="15" alt="Rust"/> Rust — modern memory & performance
 </div>
 <br>
 
@@ -40,6 +40,8 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white&style=for-the-badge)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
+
+
 
 > 📖 "There is no technology that surpasses nature. In fact, all technology imitates various aspects of nature."<br>
 > — Meditations, Marcus Aurelius
