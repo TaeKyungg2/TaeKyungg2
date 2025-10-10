@@ -10,6 +10,8 @@
 [![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-Model-yellow)](https://huggingface.co/Taery)
 [![POE](https://img.shields.io/badge/POE-visit-blue?style=flat&logo=poe&logoColor=white)](https://poe.com/taery)
 [![collatz](https://img.shields.io/badge/collatz-Live%20Site-0078D4?logo=azure-static-web-apps&logoColor=white)](https://polite-bush-02da9d200.1.azurestaticapps.net/)
+[![Resume Status](https://img.shields.io/website?url=https%3A%2F%2Ftaery.blog%2Fresume&label=Resume&style=flat&logo=vercel)](https://white-mushroom-011b04a00.1.azurestaticapps.net/)
+
 
 <div align="center">
  <h3>🃏 Interests</h3>
