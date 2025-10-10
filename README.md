@@ -9,7 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/📫LinkedIn-kwaktaekyung-87CEFA?style=flat-square)](https://www.linkedin.com/in/kwaktaekyung/)
 [![Hugging Face](https://img.shields.io/badge/Hugging_Face-🌈-yellow?style=flat-square&logo=huggingface)](https://huggingface.co/Taery)
 [![POE](https://img.shields.io/badge/POE-🎨-FFA07A?style=flat-square&logo=poe&logoColor=pink)](https://poe.com/taery)
-[![collatz](https://img.shields.io/badge/collatz-🎀-191970?style=flat-square&logo=nvidia&logoColor=32CD32)](https://polite-bush-02da9d200.1.azurestaticapps.net/)
+[![collatz](https://img.shields.io/badge/collatz-🎀-191970?style=flat-square&logo=rust&logoColor=F0F8FF)](https://polite-bush-02da9d200.1.azurestaticapps.net/)
 [![Resume](https://img.shields.io/badge/Resume-Open-9370DB?style=flat-square&logo=google-chrome&logoColor=FFFFE0)](https://white-mushroom-011b04a00.1.azurestaticapps.net/)
 
 
