@@ -7,10 +7,10 @@
 
 [![Blog](https://img.shields.io/badge/Blog-www.taery.blog-skyblue?style=flat-square)](https://www.taery.blog)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-kwaktaekyung-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kwaktaekyung/)
-[![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-profile-yellow)](https://huggingface.co/Taery)
-[![POE](https://img.shields.io/badge/POE-visit-white?style=flat&logo=poe&logoColor=pink)](https://poe.com/taery)
-[![collatz](https://img.shields.io/badge/collatz%20page-CD5C5C?logo=nvidia&logoColor=556B2F)](https://polite-bush-02da9d200.1.azurestaticapps.net/)
-[![Resume](https://img.shields.io/badge/Resume-Open-FF69B4?style=flat-square&logo=google-chrome&logoColor=yellow)](https://white-mushroom-011b04a00.1.azurestaticapps.net/)
+[![Hugging Face](https://img.shields.io/badge/Hugging_Face-🌈-yellow?style=flat-square)](https://huggingface.co/Taery)
+[![POE](https://img.shields.io/badge/POE-🎨-FFA07A?style=flat-square&logo=poe&logoColor=pink)](https://poe.com/taery)
+[![collatz](https://img.shields.io/badge/collatz-🎀-191970?style=flat-square&logo=nvidia&logoColor=32CD32)](https://polite-bush-02da9d200.1.azurestaticapps.net/)
+[![Resume](https://img.shields.io/badge/Resume-Open-9370DB?style=flat-square&logo=google-chrome&logoColor=FFFFE0)](https://white-mushroom-011b04a00.1.azurestaticapps.net/)
 
 
 <div align="center">
