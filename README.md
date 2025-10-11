@@ -1,6 +1,6 @@
 <div align="center">
 <h3>👋 Hi, 안녕하세요, I am TaeKyung Kwak</h3>
-<i>🇰🇷 Seoul, Korea</i> | 🐈‍⬛🐧 Cats, Linux, and other animals 
+<i>🇰🇷 SEOUL, KOREA</i> | 🐈‍⬛🐧 Cats, Linux, and other animals 
 </div>
 <br>
 
