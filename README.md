@@ -1,7 +1,6 @@
 <div align="center">
-<h3>👋 Hi, 안녕하세요, I am TaeKyung Kwak  
-<i>🇰🇷 Seoul, Korea</i> </h3>
- 🐈‍⬛🐧 Cats, Linux, and other animals 
+<h3>👋 Hi, 안녕하세요, I am TaeKyung Kwak</h3>
+<i>🇰🇷 Seoul, Korea</i> | 🐈‍⬛🐧 Cats, Linux, and other animals 
 </div>
 <br>
 
@@ -15,7 +14,7 @@
 
 <div align="center">
  <h3>🃏 Interests</h3>
-  📊 Data & AI — machine/deep learning, LLM<br>
+  📊 Data & AI — Machine/Deep learning, LLM<br>
   <img src="https://cdn.simpleicons.org/flutter/02569B" width="17" height="17" alt="Flutter"/> Flutter — all platform UI/UX<br>
   <img src="https://cdn.simpleicons.org/rust/000000" width="17" height="17" alt="Rust"/> Rust — modern memory & performance
 </div>
