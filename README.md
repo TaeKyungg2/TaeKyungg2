@@ -51,7 +51,6 @@
     <img src="assets/cat.jpg" width="24%" /> <img src="assets/sheep.jpg" width="24%" /> <img src="assets/3d_modi.png" width="24%" /> <img src="assets/icon_white.png" width="24%" />
  <img src="assets/notebook.JPG" width="24%" /> <img src="assets/socrates.jpg" width="24%" /> <img src="assets/polars.png" width="24%" /> <img src="assets/heart.png" width="24%" />
 </p>
-📫tae5431@gmail.com welcome
 
 
 
