@@ -4,7 +4,7 @@
 </div>
 <br>
 
-[![Blog](https://img.shields.io/badge/🖼️Blog-myblog-FFB6C1?style=flat-square)](https://fir-flutter-taery.web.app/)
+[![Blog](https://img.shields.io/badge/🖼️Blog-myblog-FFB6C1?style=flat-square)](https://taery.blog)
 [![LinkedIn](https://img.shields.io/badge/📫LinkedIn-kwaktaekyung-87CEFA?style=flat-square)](https://www.linkedin.com/in/kwaktaekyung/)
 [![Hugging Face](https://img.shields.io/badge/Hugging_Face-🌈-yellow?style=flat-square&logo=huggingface)](https://huggingface.co/Taery)
 [![POE](https://img.shields.io/badge/POE-🎨-FFA07A?style=flat-square&logo=poe&logoColor=pink)](https://poe.com/taery)
