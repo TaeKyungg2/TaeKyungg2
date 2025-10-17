@@ -14,9 +14,9 @@
 
 <div align="center">
  <h3>🃏 Interests</h3>
-  📊 Data & AI — Machine/Deep learning, LLM<br>
-  <img src="https://cdn.simpleicons.org/flutter/02569B" width="17" height="17" alt="Flutter"/> Flutter — all platform UI/UX<br>
-  <img src="https://cdn.simpleicons.org/rust/000000" width="17" height="17" alt="Rust"/> Rust — modern memory & performance
+  📊 Data & AI | Machine/Deep learning, LLM<br>
+  <img src="https://cdn.simpleicons.org/flutter/02569B" width="17" height="17" alt="Flutter"/> Flutter | all platform UI/UX<br>
+  <img src="https://cdn.simpleicons.org/rust/000000" width="17" height="17" alt="Rust"/> Rust | modern memory & performance
 </div>
 <br>
 
