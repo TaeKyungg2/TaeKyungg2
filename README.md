@@ -1,5 +1,5 @@
 <div align="center">
-<h3>👋 Hi, 안녕하세요, I am TaeKyung Kwak | <a href="https://taery.blog">blog</a></h3>
+<h3>👋 Hi, 안녕하세요, I am TaeKyung Kwak | <a href="</div>https://taery.blog/?utm_source=github&utm_medium=referral&utm_campaign=developer_profile">blog</a></h3>
 <i>🇰🇷 SEOUL, KOREA</i> | 🐈‍⬛🐧 Cats, Linux, and other animals 
 </div>
 <br>
