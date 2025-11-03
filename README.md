@@ -1,9 +1,7 @@
 <div align="center">
 
 <h3>👋 Hi, 안녕하세요, I am TaeKyung Kwak | <a href="https://taery.blog/?utm_source=github&utm_medium=referral&utm_campaign=developer_profile">blog</a></h3>
-<i>🇰🇷 SEOUL, KOREA</i> | 🐈‍⬛🐧 Cats, Linux, and other animals 
-
-<br>
+<i>🇰🇷 SEOUL, KOREA</i> | 🐈‍⬛🐧 Cats, Linux, and other animals<br><br>
 
 [![Blog](https://img.shields.io/badge/🖼️Blog-myblog-FFB6C1?style=flat-square)](https://taery.blog)
 [![LinkedIn](https://img.shields.io/badge/📫LinkedIn-kwaktaekyung-87CEFA?style=flat-square)](https://www.linkedin.com/in/kwaktaekyung/)
@@ -17,7 +15,7 @@
   📊 Data & AI | Machine/Deep learning, LLM<br>
   <img src="https://cdn.simpleicons.org/flutter/02569B" width="17" height="17" alt="Flutter"/> Flutter | all platform UI/UX<br>
   <img src="https://cdn.simpleicons.org/rust/000000" width="17" height="17" alt="Rust"/> Rust | modern memory & performance
-<br>
+<br><br>
 
 
 ![C](https://img.shields.io/badge/C-18199C?style=for-the-badge&logo=c&logoColor=white)
