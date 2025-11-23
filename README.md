@@ -5,7 +5,6 @@
 
 [![Blog](https://img.shields.io/badge/🖼️Blog-myblog-FFB6C1?style=flat-square)](https://taery.blog)
 [![LinkedIn](https://img.shields.io/badge/📫LinkedIn-kwaktaekyung-87CEFA?style=flat-square)](https://www.linkedin.com/in/kwaktaekyung/)
-[![Hugging Face](https://img.shields.io/badge/Hugging_Face-🌈-yellow?style=flat-square&logo=huggingface)](https://huggingface.co/Taery)
 [![Resume](https://img.shields.io/badge/Resume-Open-9370DB?style=flat-square&logo=google-chrome&logoColor=FFFFE0)](https://resume.taery.blog/)
 
 
