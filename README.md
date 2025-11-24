@@ -1,11 +1,11 @@
 <div align="center">
 
-<h3>👋 Hi, 안녕하세요, I am TaeKyung Kwak | <a href="https://taery.blog/?utm_source=github&utm_medium=referral&utm_campaign=developer_profile">blog</a></h3>
+<h3>👋 Hi, 안녕하세요, I am TaeKyung Kwak</h3>
 <i>🇰🇷 SEOUL, KOREA</i> | 🐈‍⬛🐧 Cats, Linux, and other animals<br><br>
 
 [![Blog](https://img.shields.io/badge/🖼️Blog-myblog-FFB6C1?style=flat-square)](https://taery.blog)
 [![LinkedIn](https://img.shields.io/badge/📫LinkedIn-kwaktaekyung-87CEFA?style=flat-square)](https://www.linkedin.com/in/kwaktaekyung/)
-[![Resume](https://img.shields.io/badge/🧑‍💻Resume-Open-9370DB?style=flat-square)](https://resume.taery.blog/)
+[![Resume](https://img.shields.io/badge/🧑‍💻Resume-Open-ECCCEE?style=flat-square)](https://resume.taery.blog/)
 
 
  <h3>🃏 Interests</h3>
