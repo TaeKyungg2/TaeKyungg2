@@ -36,10 +36,6 @@
 </div>
 
 
-
-> 📖 "There is no technology that surpasses nature. In fact, all technology imitates various aspects of nature."<br>
-> — Meditations, Marcus Aurelius
-
 🐳  Trying to understand the principles beyond just using libraries.<br>
 🎼  Enjoy developing and want to learn and build many things.
 <p align="center">
