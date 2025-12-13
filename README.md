@@ -5,7 +5,6 @@
 
 [![Blog](https://img.shields.io/badge/🖼️Blog-myblog-FFB6C1?style=flat-square)](https://taery.blog)
 [![LinkedIn](https://img.shields.io/badge/📫LinkedIn-kwaktaekyung-87CEFA?style=flat-square)](https://www.linkedin.com/in/kwaktaekyung/)
-[![Resume](https://img.shields.io/badge/🧑‍💻Resume-Open-ECCCEE?style=flat-square)](https://resume.taery.blog/)
 
 
  <h3>🃏 Interests</h3>
