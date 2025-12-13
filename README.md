@@ -1,7 +1,7 @@
 <div align="center">
 
 <h3>👋 Hi, 안녕하세요, I am TaeKyung Kwak</h3>
-<i>🇰🇷 SEOUL, KOREA</i> | 🐈‍⬛🐧 Cats, Linux, and other animals<br><br>
+<i>🇰🇷 SEOUL, KOREA</i> | 🐈‍⬛🐧 Cats, and other animals<br><br>
 
 [![Blog](https://img.shields.io/badge/🖼️Blog-myblog-FFB6C1?style=flat-square)](https://taery.blog)
 [![LinkedIn](https://img.shields.io/badge/📫LinkedIn-kwaktaekyung-87CEFA?style=flat-square)](https://www.linkedin.com/in/kwaktaekyung/)
