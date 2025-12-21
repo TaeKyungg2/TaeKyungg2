@@ -1,7 +1,7 @@
 👋 Hi, I am TaeKyung Kwak
 <i>🇰🇷 SEOUL, KOREA</i><br><br>
 
-[![Blog](https://img.shields.io/badge/🖼️Blog-myblog-FFB6C1?style=flat-square)](https://taery.blog)
+[![Blog](https://img.shields.io/badge/🖼️Blog-link-FFB6C1?style=flat-square)](https://taery.blog)
 [![LinkedIn](https://img.shields.io/badge/📫LinkedIn-kwaktaekyung-87CEFA?style=flat-square)](https://www.linkedin.com/in/kwaktaekyung/)
 <div>
  Interests<br>
