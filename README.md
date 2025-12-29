@@ -21,8 +21,6 @@
 
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?logo=icloud&logoColor=white&style=for-the-badge)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=red)
-
 
 🐳  Trying to understand the principles beyond just using libraries.<br>
 🎼  Enjoy developing and want to learn and build many things.
